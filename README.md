@@ -103,7 +103,7 @@ Patterns avoided in this version:
 
 ## AI tools used
 
-Used ChatGPT to speed up:
+Used Claude to speed up:
 
 - project scaffolding
 - component planning
